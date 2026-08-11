@@ -83,26 +83,41 @@
 <table>
   <tr>
     <td width="50%">
-      <b>🌌 3D Interactive Portfolio</b><br/>
-      React + Vite, React Three Fiber, Rapier physics, GLB models<br/>
-      <a href="https://portfolio-hamza-akhtar.vercel.app">Live Demo</a>
+      <b>⚡ EV Management System (EVMS)</b><br/>
+      Enterprise platform for managing EV operations, transactions, dashboards, and reports.<br/>
+      <sub>ASP.NET Core MVC • C# • SQL Server • ADO.NET • RDLC</sub>
     </td>
     <td width="50%">
-      <b>🚌 Daewoo Booking Platform</b><br/>
-      React + Vite frontend integrated with .NET REST APIs<br/>
-      Seat selection, booking flow, cancellation/refund system
+      <b>🚌 Smart Transit Management System</b><br/>
+      Comprehensive platform for insurance, outsourced buses, surveys, complaints & Feedback, and operational dashboards.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <b>💬 WhatsApp AI Agent</b><br/>
-      Twilio + FastAPI + Gemini — automated customer conversations
+      <b>📦 Cargo Management System (KCS)</b><br/>
+      Cargo management platform covering bookings, deliveries, tracking, and operational reporting.<br/>
+      <sub>ASP.NET MVC • C# • SQL Server • ADO.NET • RDLC</sub>
     </td>
     <td width="50%">
-      <b>🧠 AI Project Suite (x9)</b><br/>
-      Python, Streamlit, LangChain, ChromaDB, Gemini API
+      <b>📈 Enterprise Performance Manager (EPM)</b><br/>
+      Performance monitoring platform for tracking departmental KPIs, metrics, dashboards, and reports.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
     </td>
   </tr>
+   <tr>
+    <td width="50%">
+      <b>🌱 Air Quality Monitoring System (AQMS)</b><br/>
+      Real-time air quality monitoring platform for collecting, managing, visualizing, and reporting environmental data.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • JavaScript • Bootstrap</sub>
+    </td>
+    <td width="50%">
+      <b>⚙️ Operations Management System (OMS)</b><br/>
+      Enterprise operations platform designed to manage workflows, operational activities, monitoring, and reporting.<br/>
+      <sub>ASP.NET Core • C# • SQL Server • jQuery • Bootstrap</sub>
+    </td>
+  </tr>
+
 </table>
 
 ---
