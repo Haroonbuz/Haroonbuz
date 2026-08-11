@@ -58,12 +58,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hamza1106&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza1106&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haroonbuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonbuz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza1106&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonbuz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
 </p>
 
 <p align="center">
