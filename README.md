@@ -2,7 +2,7 @@
 <h3 align="center">.NET Developer | C#, ASP.NET MVC, .NET Core, SQL Server, Entity Framework </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+React+%2B+Node+booking+platforms;Automating+businesses+with+AI+%26+n8n;Freelancing+on+Fiverr+as+%40orbitflow;Always+shipping+something+new" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=.NET+Developer+%7C+ASP.NET+Core+%7C+ASP.NET+MVC+%7C+C%23;Building+Scalable+Enterprise+Applications;SQL+Server+%7C+REST+APIs+%7C+ADO.NET;Turning+Ideas+into+Production-Ready+Solutions;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
