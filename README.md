@@ -59,7 +59,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Haroonbuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonbuz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Haroonbuz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamza1106&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonbuz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
 </p>
 
 ---
