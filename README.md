@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-hamza-akhtar.vercel.app" target="_blank">
+<!--  <a href="https://portfolio-hamza-akhtar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/orbit_flow" target="_blank">
+  </a> -->
+ <!-- <a href="https://www.fiverr.com/orbit_flow" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="mailto:hamzaqureshi0128@gmail.com" target="_blank">
+  </a>-->
+  <a href="mailto:mharoonbuz@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/hamza-akhtar-8ab424415/" target="_blank">
+  <a href="https://www.linkedin.com/in/haroondev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -24,19 +24,23 @@
 
 ## 🚀 About Me
 
-🎓 BS Computer Science student at Sukkur IBA University, graduating in May 2027.
+💼 .NET Developer with 1.5+ years of professional experience building enterprise web applications using ASP.NET Core, C#, and SQL Server.
 
-💼 Frontend Intern at Daewoo Express, building a modern React + Vite booking platform integrated with REST APIs and scalable frontend architecture.
+🚌 Currently developing the EV Management System (EVMS) and supporting the Fastex Web Platform at Daewoo Express, Pakistan's largest inter-city bus operator.
 
-🤖 Freelance AI & Automation Engineer on Fiverr under **@orbitflow**, delivering AI chatbots, workflow automation (n8n, Make, Zapier), intelligent assistants, and data-driven solutions.
+💻 Strong full-stack foundation with expertise in ASP.NET Core MVC, C#, ADO.NET, SQL Server, REST APIs, HTML5, CSS3, Bootstrap, and jQuery.
 
-🌐 Passionate about building premium digital experiences—from interactive 3D web applications and cinematic UI/UX to full-stack platforms, AI-powered healthcare systems, and procedural world generation engines.
+⚙️ Experienced in designing databases, developing stored procedures, optimizing SQL queries, building responsive interfaces, integrating APIs, and supporting applications through production deployment.
 
-📈 Currently exploring AI Agents, WhatsApp AI Assistants (Twilio + FastAPI + Gemini), Voice AI (Vapi), Machine Learning, and advanced frontend technologies.
+📊 Passionate about building scalable enterprise systems, high-performance backend solutions, reporting platforms, and seamless digital experiences.
 
-🏆 Recent projects include an AI Procedural World Generation Engine, HerCare AI, Jamaica Tour Management System, Royal Dastarkhuwan, Wear-IT Store, and Pizza House 3D.
+🚀 Continuously exploring modern .NET technologies, software architecture, performance optimization, API development, and best practices for building maintainable enterprise applications.
 
-💬 Ask me about React, TypeScript, Python, Full-Stack Development, AI, Machine Learning, Automation, UI/UX, or Software Engineering.
+🏆 Recent work includes EV Management System, Fastex Web Platform, Smart Transit Management System, Care Connect Portal, and Cargo Management System.
+
+💬 Ask me about C#, ASP.NET Core, MVC, REST APIs, SQL Server, Stored Procedures, ADO.NET, jQuery, Bootstrap, RDLC/Crystal Reports, or Enterprise Application Development.
+
+📩 Open to Software Engineer / .NET Developer opportunities and freelance projects involving scalable web applications and enterprise solutions.
 
 ---
 
