@@ -108,7 +108,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hamza1106&style=for-the-badge&color=6366F1" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Haroonbuz&style=for-the-badge&label=PROFILE+VIEWS&color=6366F1" alt="Profile Views" />
 </p>
 
 <p align="center"><i>⚡ Open to freelance gigs, internships, and collabs — let's build something.</i></p>
