@@ -64,12 +64,20 @@
 
 <p align="center">
   <!--<img height="165" src="https://github-readme-stats.vercel.app/api?username=Haroonbuz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" />-->
+<!--  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Haroonbuz&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />-->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Haroonbuz&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonbuz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
+
+<!--<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haroonbuz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" />
+   <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Haroonbuz&theme=tokyonight"
+    alt="Most Used Languages"
+  />
 </p>-->
 
 <p align="center">
