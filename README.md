@@ -12,12 +12,13 @@
  <!-- <a href="https://www.fiverr.com/orbit_flow" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>-->
-  <a href="mailto:mharoonbuz@gmail.com" target="_blank">
-   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
-  </a>
   <a href="https://www.linkedin.com/in/haroondev" target="_blank">
    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
   </a>
+  <a href="mailto:mharoonbuz@gmail.com" target="_blank">
+   <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+ 
 </p>
 
 ---
