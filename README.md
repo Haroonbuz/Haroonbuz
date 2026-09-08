@@ -98,7 +98,7 @@
 <!-- 🐍 📈 SNAKE GRAPH / 🌐 WEBSITE: https://github.com/Platane/snk -->
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/haroonbuz/haroonbuz/snake/github-snake-dark.svg"
+       src="https://raw.githubusercontent.com/haroonbuz/haroonbuz/snake/github-snake-dark.svg"
     width="100%"
     alt="GitHub Contribution Snake"
   />
