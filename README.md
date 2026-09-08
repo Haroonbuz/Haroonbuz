@@ -91,9 +91,9 @@
   />
 </p>
 <!-- 🐍 💬 SNAKE TITLE / 🌐 WEBSITE: https://textanim.com/ -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-</p>
+</p>-->
 
 <!-- 🐍 📈 SNAKE GRAPH / 🌐 WEBSITE: https://github.com/Platane/snk -->
 <p align="center">
