@@ -90,7 +90,19 @@
     alt="Haroon GitHub Activity Graph"
   />
 </p>
+<!-- 🐍 💬 SNAKE TITLE / 🌐 WEBSITE: https://textanim.com/ -->
+<p align="center">
+  <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+</p>
 
+<!-- 🐍 📈 SNAKE GRAPH / 🌐 WEBSITE: https://github.com/Platane/snk -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/haroonbuz/haroonbuz/snake/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 
 ### 📌 Featured Projects
