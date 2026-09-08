@@ -81,8 +81,14 @@
   />
 </p>-->
 
+<!-- 📈 ACTIVITY GRAPH -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haroonbuz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=ffffff" />
+  <img
+    src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=Haroonbuz&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=8B5CF6&area=true"
+    width="100%"
+    alt="Haroon GitHub Activity Graph"
+  />
 </p>
 
 ---
