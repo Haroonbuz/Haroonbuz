@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-💼 .NET Developer with 1.5+ years of professional experience building enterprise web applications using ASP.NET Core, C#, and SQL Server.
+💼 .NET Developer with 2 years of professional experience building enterprise web applications using ASP.NET Core, C#, and SQL Server.
 
 🚌 Currently developing the EV Management System (EVMS) and supporting the Fastex Web Platform at Daewoo Express, Pakistan's largest inter-city bus operator.
 
